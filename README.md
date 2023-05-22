@@ -1,5 +1,25 @@
-<h1 align="center">Hi 👋, I'm yuyuan .</h1>
-<h3 align="center">I enjoy coding with different programming language.</h3>
+About ME
+---
+Hello, my name is yuyuan.
+I enjoy coding with different programming language.
+
+### Graduate
+High School：TAICHUNG MUNICIPAL SHA-LU INDUSTRIAL HIGH SCHOOL (SLVS) - Computer Science
+University School：National Formosa University (NFU) - Computer Science & Information Engineering
+
+### Study Now
+Research：National Sun Yat-sen University (NSYSU) - Department of Computer Science and Engineering
+
+SKills
+---
+### Language
+### Framework
+### Design
+### Other 
+
+Contact ME
+---
+
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
