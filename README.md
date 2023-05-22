@@ -11,13 +11,16 @@ I enjoy coding with different programming language.
 #### Study Now
 * Research：National Sun Yat-sen University (NSYSU)
 
+<div>
 ⭐ SKills
----
+<hr>
 #### Language
 #### Framework
 #### Design
 #### Other 
 
+</div>
+  
 ⭐ Contact ME
 ---
 
