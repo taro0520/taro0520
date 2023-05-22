@@ -17,6 +17,7 @@ I enjoy coding with different programming language.
 <div>
 <h5>🔧 Language：</h5>
   <p>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
       
   </p>
 <h5>💻 Framework：</h5>
