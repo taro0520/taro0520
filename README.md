@@ -14,10 +14,10 @@ I enjoy coding with different programming language.
 <div>
 ⭐ SKills
 <hr>
-#### Language
-#### Framework
-#### Design
-#### Other 
+<h3>Language</h3>
+<h3>Framework</h3>
+<h3>Design</h3>
+<h3>Other</h3>
 
 </div>
   
