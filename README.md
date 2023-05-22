@@ -6,7 +6,7 @@ I enjoy coding with different programming language. 💻
 <img align="right" width="250" height="250" src="https://avatars.githubusercontent.com/u/54659199?v=4">
 
 #### Graduate
-* High School：TAICHUNG MUNICIPAL SHA-LU INDUSTRIAL HIGH SCHOOL (SLVS)
+* High School：SHA-LU INDUSTRIAL HIGH SCHOOL (SLVS)
 
 * University School：National Formosa University (NFU)
 
