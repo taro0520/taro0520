@@ -1,9 +1,9 @@
 ⭐ About ME
 ---
-<img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/54659199?v=4">
 Hello, my name is yuyuan. 🙋‍♂️
   
 I enjoy coding with different programming language. 💻
+<img align="right" width="300" height="300" src="https://avatars.githubusercontent.com/u/54659199?v=4">
 
 #### Graduate
 * High School：TAICHUNG MUNICIPAL SHA-LU INDUSTRIAL HIGH SCHOOL (SLVS)
