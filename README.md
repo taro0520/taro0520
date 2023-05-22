@@ -3,6 +3,9 @@ About ME
 Hello, my name is yuyuan.
 I enjoy coding with different programming language.
 
+```diff
+# Graduate
+```
 + Graduate
 High School：TAICHUNG MUNICIPAL SHA-LU INDUSTRIAL HIGH SCHOOL (SLVS)
 
@@ -13,9 +16,6 @@ Research：National Sun Yat-sen University (NSYSU)
 
 SKills
 ---
-```html
-<span color="#0000FF">Language</span>
-```
 ### Language
 ### Framework
 ### Design
