@@ -8,15 +8,15 @@ High School：TAICHUNG MUNICIPAL SHA-LU INDUSTRIAL HIGH SCHOOL (SLVS)
 
 University School：National Formosa University (NFU)
 
-### Study Now
+#### Study Now
 Research：National Sun Yat-sen University (NSYSU)
 
 SKills
 ---
-### Language
-### Framework
-### Design
-### Other 
+#### Language
+#### Framework
+#### Design
+#### Other 
 
 Contact ME
 ---
