@@ -13,6 +13,9 @@ Research：National Sun Yat-sen University (NSYSU)
 
 SKills
 ---
+```html
+<h3 color="#0000FF">Language</h3>
+```
 ### Language
 ### Framework
 ### Design
