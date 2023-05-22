@@ -3,7 +3,7 @@
 Hello, my name is yuyuan. 🙋‍♂️
   
 I enjoy coding with different programming language. 💻
-<img align="right" width="250" height="250" src="https://avatars.githubusercontent.com/u/54659199?v=4">
+<img align="right" width="250" height="250" src="https://blog.yuyuan.me/img/my.png">
 
 #### Graduate
 * High School：SHA-LU INDUSTRIAL HIGH SCHOOL (SLVS)
