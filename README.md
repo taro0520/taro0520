@@ -4,11 +4,12 @@ Hello, my name is yuyuan.
 I enjoy coding with different programming language.
 
 ### Graduate
-High School：TAICHUNG MUNICIPAL SHA-LU INDUSTRIAL HIGH SCHOOL (SLVS) - Computer Science
-University School：National Formosa University (NFU) - Computer Science & Information Engineering
+High School：TAICHUNG MUNICIPAL SHA-LU INDUSTRIAL HIGH SCHOOL (SLVS)
+
+University School：National Formosa University (NFU)
 
 ### Study Now
-Research：National Sun Yat-sen University (NSYSU) - Department of Computer Science and Engineering
+Research：National Sun Yat-sen University (NSYSU)
 
 SKills
 ---
