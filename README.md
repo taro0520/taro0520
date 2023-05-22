@@ -1,7 +1,8 @@
 ⭐ About ME
 ---
-<h1 align="left">Hello, my name is yuyuan. 🙋‍♂️</h1>
-<h1 align="left">I enjoy coding with different programming language. 💻</h1>
+Hello, my name is yuyuan. 🙋‍♂️
+  
+I enjoy coding with different programming language. 💻
 
 #### Graduate
 * High School：TAICHUNG MUNICIPAL SHA-LU INDUSTRIAL HIGH SCHOOL (SLVS)
