@@ -1,6 +1,6 @@
 ⭐ About ME
 ---
-<img align="right" src="">
+<img align="right" src="https://avatars.githubusercontent.com/u/54659199?v=4">
 Hello, my name is yuyuan. 🙋‍♂️
   
 I enjoy coding with different programming language. 💻
