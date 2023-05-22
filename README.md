@@ -3,7 +3,7 @@ About ME
 Hello, my name is yuyuan.
 I enjoy coding with different programming language.
 
-<font color=#0000FF size=24px>Graduate</font>
+<font color="#0000FF" size="24px">Graduate</font>
 High School：TAICHUNG MUNICIPAL SHA-LU INDUSTRIAL HIGH SCHOOL (SLVS)
 
 University School：National Formosa University (NFU)
