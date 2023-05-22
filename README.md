@@ -54,7 +54,7 @@ I enjoy coding with different programming language.
   <a href="mailto:studio@yuyuan.me">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://blog.yuayun.me">
+  <a href="https://blog.yuyuan.me">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </p>
